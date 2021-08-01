@@ -1,3 +1,4 @@
+
 package com.exaltpawarikanda.msscbeerorderservice.domain;
 
 import lombok.Builder;

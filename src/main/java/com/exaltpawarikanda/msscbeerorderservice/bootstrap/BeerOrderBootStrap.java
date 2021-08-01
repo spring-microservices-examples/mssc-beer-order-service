@@ -1,7 +1,7 @@
 package com.exaltpawarikanda.msscbeerorderservice.bootstrap;
 
-import guru.sfg.beer.order.service.domain.Customer;
-import guru.sfg.beer.order.service.repositories.CustomerRepository;
+import com.exaltpawarikanda.msscbeerorderservice.domain.Customer;
+import com.exaltpawarikanda.msscbeerorderservice.repositories.CustomerRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
