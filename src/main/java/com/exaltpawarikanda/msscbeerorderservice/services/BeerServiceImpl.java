@@ -1,7 +1,6 @@
 package com.exaltpawarikanda.msscbeerorderservice.services;
 
 import com.exaltpawarikanda.msscbeerorderservice.web.model.BeerDto;
-import lombok.RequiredArgsConstructor;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.stereotype.Service;
